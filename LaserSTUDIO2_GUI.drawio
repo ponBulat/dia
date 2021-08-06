@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T10:21:22.102Z" agent="5.0 (X11)" version="14.9.4" etag="b3BfpJiynvAv7WoC7a6U" type="github"><diagram id="o6FBnnh21fnTWob_zk2f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-06T10:24:13.920Z" agent="5.0 (X11)" etag="LeTDdulGTdcS8K1JeXQ-" version="14.9.4" type="github">
+  <diagram id="o6FBnnh21fnTWob_zk2f" name="Page-1">
+    <mxGraphModel dx="1350" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WA45sJLJeDe34Si-K1UF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="1030" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="WA45sJLJeDe34Si-K1UF-2" value="QML / JavaScript" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WA45sJLJeDe34Si-K1UF-3" value="Схема GUI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="570" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
