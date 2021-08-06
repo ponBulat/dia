@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T11:45:58.101Z" agent="5.0 (X11)" etag="2HYDMOr1Afz5WOOjj0BO" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T11:54:22.112Z" agent="5.0 (X11)" etag="UDGfWxhH90lINfj2nI1Q" version="14.9.4" type="github">
   <diagram id="o6FBnnh21fnTWob_zk2f" name="Page-1">
-    <mxGraphModel dx="1350" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WA45sJLJeDe34Si-K1UF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WA45sJLJeDe34Si-K1UF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="10" y="60" width="1150" height="450" as="geometry" />
         </mxCell>
         <mxCell id="WA45sJLJeDe34Si-K1UF-2" value="QML / JavaScript" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -20,10 +20,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WA45sJLJeDe34Si-K1UF-6" value="DeviceCAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="WA45sJLJeDe34Si-K1UF-6" value="DeviceCAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="70" y="450" width="1030" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WA45sJLJeDe34Si-K1UF-9" value="ParamFiles" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="WA45sJLJeDe34Si-K1UF-9" value="ParamFiles" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="960" y="60" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WA45sJLJeDe34Si-K1UF-11" value="&lt;div style=&quot;font-size: 10px&quot; align=&quot;left&quot;&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span class=&quot;pl-s&quot;&gt;&lt;span class=&quot;pl-pds&quot;&gt;  &quot;&lt;/span&gt;PCIe 0&lt;span class=&quot;pl-pds&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;,&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;  &lt;span class=&quot;pl-s&quot;&gt;&lt;span class=&quot;pl-pds&quot;&gt;&quot;&lt;/span&gt;PCIe 1&lt;span class=&quot;pl-pds&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;]&lt;/font&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
@@ -60,7 +60,7 @@
         <mxCell id="WA45sJLJeDe34Si-K1UF-22" value="Сообщения для плат:&lt;br&gt;status, settings, command, params" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="716.88" y="600" width="186.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WA45sJLJeDe34Si-K1UF-23" value="paramfiles.h" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="WA45sJLJeDe34Si-K1UF-23" value="paramfiles.h" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="960" y="20" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WA45sJLJeDe34Si-K1UF-44" value="params" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="WA45sJLJeDe34Si-K1UF-24" target="WA45sJLJeDe34Si-K1UF-32">
@@ -93,7 +93,7 @@
             <mxPoint x="770" y="270" as="sourcePoint" />
             <mxPoint x="820" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1038" y="120" />
+              <mxPoint x="1038" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -135,6 +135,12 @@
         </mxCell>
         <mxCell id="WA45sJLJeDe34Si-K1UF-40" value="вывод ошибки" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WA45sJLJeDe34Si-K1UF-47" value="&lt;span style=&quot;font-weight: 600 ; color: #00677c&quot;&gt;ParamFiles&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.778;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;jumpStyle=none;shadow=1;sketch=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="WA45sJLJeDe34Si-K1UF-46" target="WA45sJLJeDe34Si-K1UF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WA45sJLJeDe34Si-K1UF-46" value="Панели наборов параметров" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="215" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
