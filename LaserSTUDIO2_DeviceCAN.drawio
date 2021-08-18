@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T08:17:33.196Z" agent="5.0 (X11)" etag="BnGc0acmyGilfN2jwz8b" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T08:25:57.057Z" agent="5.0 (X11)" etag="0J1ymLXCZPnoBdhSLiEY" version="14.9.4" type="github">
   <diagram id="o6FBnnh21fnTWob_zk2f" name="Page-1">
     <mxGraphModel dx="1350" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -225,6 +225,9 @@
         </mxCell>
         <mxCell id="NdoguJuQsjqrLEw7FO3E-55" value="&lt;span style=&quot;font-weight: 600 ; color: #00677c&quot;&gt;channelsInfo&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: 600 ; color: #00677c&quot;&gt;&lt;/span&gt;&lt;pre style=&quot;margin-top: 0px ; margin-bottom: 0px ; margin-left: 0px ; margin-right: 0px ; text-indent: 0px&quot;&gt;&lt;span style=&quot;font-weight: 600 ; color: #00677c&quot;&gt;channelStarted&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="186.25" y="320" width="123.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NdoguJuQsjqrLEw7FO3E-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.712;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;shape=arrow;" edge="1" parent="1" source="NdoguJuQsjqrLEw7FO3E-60" target="NdoguJuQsjqrLEw7FO3E-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NdoguJuQsjqrLEw7FO3E-60" value="&lt;div&gt;&lt;b&gt;addNewBoard&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="260" y="449.5" width="100" height="60" as="geometry" />
