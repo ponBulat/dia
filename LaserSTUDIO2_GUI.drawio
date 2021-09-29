@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T06:51:28.092Z" agent="5.0 (X11)" etag="HGrJS8hcUOSHUIMrKdRA" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T07:22:57.239Z" agent="5.0 (X11)" etag="JN3LHvHnZwJPORxZGJUr" version="15.3.5" type="github">
   <diagram id="o6FBnnh21fnTWob_zk2f" name="Page-1">
     <mxGraphModel dx="1350" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,7 +54,10 @@
         <mxCell id="8RfqbtxCQRGW1ZaWBh-D-16" value="настройки" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.683;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="WA45sJLJeDe34Si-K1UF-35" target="WA45sJLJeDe34Si-K1UF-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8RfqbtxCQRGW1ZaWBh-D-26" value="статус лазера" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" edge="1" parent="1" source="WA45sJLJeDe34Si-K1UF-35" target="8RfqbtxCQRGW1ZaWBh-D-25">
+        <mxCell id="8RfqbtxCQRGW1ZaWBh-D-26" value="статус лазера" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="WA45sJLJeDe34Si-K1UF-35" target="8RfqbtxCQRGW1ZaWBh-D-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8RfqbtxCQRGW1ZaWBh-D-36" value="настройки" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" edge="1" parent="1" source="WA45sJLJeDe34Si-K1UF-35" target="8RfqbtxCQRGW1ZaWBh-D-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WA45sJLJeDe34Si-K1UF-35" value="&lt;span style=&quot;font-style: italic&quot;&gt;parseBoardMsg&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -64,10 +67,10 @@
           <mxGeometry x="20" y="125" width="280" height="625" as="geometry" />
         </mxCell>
         <mxCell id="WA45sJLJeDe34Si-K1UF-46" value="Param&lt;br&gt;Sets" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="30" y="152.5" width="60" height="247.5" as="geometry" />
+          <mxGeometry x="30" y="152.5" width="50" height="247.5" as="geometry" />
         </mxCell>
         <mxCell id="WA45sJLJeDe34Si-K1UF-24" value="ParamValues" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="100" y="152.5" width="190" height="247.5" as="geometry" />
+          <mxGeometry x="90" y="152.5" width="200" height="247.5" as="geometry" />
         </mxCell>
         <mxCell id="8RfqbtxCQRGW1ZaWBh-D-2" value="имена&lt;br&gt;файлов" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WA45sJLJeDe34Si-K1UF-9" target="WA45sJLJeDe34Si-K1UF-46">
           <mxGeometry relative="1" as="geometry">
@@ -195,14 +198,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8RfqbtxCQRGW1ZaWBh-D-3" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="429" as="sourcePoint" />
-            <mxPoint x="70" y="639" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="8RfqbtxCQRGW1ZaWBh-D-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" edge="1" parent="1" source="8RfqbtxCQRGW1ZaWBh-D-4" target="WA45sJLJeDe34Si-K1UF-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8RfqbtxCQRGW1ZaWBh-D-4" value="Save&lt;br&gt;Params" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="100" y="360" width="50" height="40" as="geometry" />
+          <mxGeometry x="90" y="360" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8RfqbtxCQRGW1ZaWBh-D-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="8RfqbtxCQRGW1ZaWBh-D-5" target="8RfqbtxCQRGW1ZaWBh-D-9">
           <mxGeometry relative="1" as="geometry" />
@@ -211,10 +211,10 @@
           <mxGeometry x="240" y="440" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8RfqbtxCQRGW1ZaWBh-D-7" value="set&lt;br&gt;From&lt;br&gt;File&lt;br&gt;Params" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="160" y="330" width="50" height="70" as="geometry" />
+          <mxGeometry x="150" y="330" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8RfqbtxCQRGW1ZaWBh-D-9" value="set&lt;br&gt;From&lt;br&gt;Can&lt;br&gt;Params" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="240" y="330" width="50" height="70" as="geometry" />
+          <mxGeometry x="240" y="220" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8RfqbtxCQRGW1ZaWBh-D-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="8RfqbtxCQRGW1ZaWBh-D-12" target="8RfqbtxCQRGW1ZaWBh-D-13">
           <mxGeometry relative="1" as="geometry" />
@@ -263,7 +263,20 @@
           <mxGeometry x="240" y="580" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8RfqbtxCQRGW1ZaWBh-D-30" value="включите лазер" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="130" y="595" width="70" height="30" as="geometry" />
+          <mxGeometry x="125" y="595" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8RfqbtxCQRGW1ZaWBh-D-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" edge="1" parent="1" source="8RfqbtxCQRGW1ZaWBh-D-32" target="8RfqbtxCQRGW1ZaWBh-D-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RfqbtxCQRGW1ZaWBh-D-32" value="set&lt;br&gt;Laser&lt;br&gt;Ranges" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8RfqbtxCQRGW1ZaWBh-D-33" value="set&lt;br&gt;Laser&lt;br&gt;Ranges" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
