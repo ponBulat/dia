@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T06:54:53.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="YR61gtxkwQEG83KohxUP" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T09:05:34.103Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lvxcDSDCJBMzkGsiOPWn" version="16.2.7" type="github">
   <diagram id="FXUG7Rp8BgYKLSqA1spy" name="Page-1">
-    <mxGraphModel dx="948" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1354" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,11 +22,11 @@
         <mxCell id="dRSRHBs3QUqfo48hZalt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="GN5iy7HzoKI8bPFCEEdY-3" target="dRSRHBs3QUqfo48hZalt-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GN5iy7HzoKI8bPFCEEdY-3" value="Плата подсветки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="GN5iy7HzoKI8bPFCEEdY-3" value="Board 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="304" y="960" width="122" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GN5iy7HzoKI8bPFCEEdY-4" value="Лазерный станок" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="95" y="950" width="70" height="20" as="geometry" />
+        <mxCell id="GN5iy7HzoKI8bPFCEEdY-4" value="&amp;nbsp;laser cutting machines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="95" y="950" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dRSRHBs3QUqfo48hZalt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="GN5iy7HzoKI8bPFCEEdY-5" target="dRSRHBs3QUqfo48hZalt-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -35,28 +35,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GN5iy7HzoKI8bPFCEEdY-5" value="Плата ..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="GN5iy7HzoKI8bPFCEEdY-5" value="Board 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="185" y="960" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dRSRHBs3QUqfo48hZalt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="GN5iy7HzoKI8bPFCEEdY-6" target="dRSRHBs3QUqfo48hZalt-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GN5iy7HzoKI8bPFCEEdY-6" value="Плата ..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="GN5iy7HzoKI8bPFCEEdY-6" value="Board 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="439" y="960" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dRSRHBs3QUqfo48hZalt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.885;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="GN5iy7HzoKI8bPFCEEdY-7" target="dRSRHBs3QUqfo48hZalt-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GN5iy7HzoKI8bPFCEEdY-7" value="Плата ..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="GN5iy7HzoKI8bPFCEEdY-7" value="Board ..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="585" y="960" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GN5iy7HzoKI8bPFCEEdY-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="276.25" y="82.5" width="315" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="GN5iy7HzoKI8bPFCEEdY-17" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Компьютер (хост)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GN5iy7HzoKI8bPFCEEdY-17" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;PC (Client)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="353.75" y="70" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GN5iy7HzoKI8bPFCEEdY-19" value="&lt;div style=&quot;font-size: 16px&quot;&gt;Схема модулей LaserSTUDIO2 v2.0&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="GN5iy7HzoKI8bPFCEEdY-19" value="&lt;div style=&quot;font-size: 16px&quot;&gt;LaserSTUDIO2 v2.0&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="195" y="30" width="460" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GN5iy7HzoKI8bPFCEEdY-21" value="&lt;u&gt;Marathon:&lt;/u&gt; chai 2.11&lt;br&gt;(only windows)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
@@ -104,10 +104,10 @@
             <mxPoint x="124.28999999999996" y="517.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GN5iy7HzoKI8bPFCEEdY-47" value="LaserSTUDIO2&lt;br&gt;(QML/JavaScript)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;verticalAlign=top;align=left;" parent="1" vertex="1">
+        <mxCell id="GN5iy7HzoKI8bPFCEEdY-47" value="GUI LaserSTUDIO v2.0&lt;br&gt;(QML/JavaScript)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="303.75" y="127.5" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GN5iy7HzoKI8bPFCEEdY-55" value="Другое GUI &lt;br&gt;на любом языке программирования" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="GN5iy7HzoKI8bPFCEEdY-55" value="GUI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="641.25" y="145" width="157.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GN5iy7HzoKI8bPFCEEdY-56" value="WebSocket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -128,8 +128,8 @@
             <mxPoint x="678.8" y="249.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRSRHBs3QUqfo48hZalt-2" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Компьютер (сервер)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="66.25" y="382.5" width="160" height="50" as="geometry" />
+        <mxCell id="dRSRHBs3QUqfo48hZalt-2" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Raspberry (or TinkerOS or other)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="66.25" y="382.5" width="123.75" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="dRSRHBs3QUqfo48hZalt-4" value="WebSocketServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="390.75" y="367.5" width="170" height="55" as="geometry" />
@@ -146,10 +146,10 @@
             <mxPoint x="270" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRSRHBs3QUqfo48hZalt-11" value="Локальная сеть" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="dRSRHBs3QUqfo48hZalt-11" value="the local network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="419.5" y="257.5" width="71" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dRSRHBs3QUqfo48hZalt-13" value="сеть&lt;br style=&quot;font-size: 12px;&quot;&gt;CAN" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="dRSRHBs3QUqfo48hZalt-13" value="CAN" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="319" y="790" width="360" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GN5iy7HzoKI8bPFCEEdY-43" value="frame" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dRSRHBs3QUqfo48hZalt-13" target="GN5iy7HzoKI8bPFCEEdY-35" edge="1">
@@ -170,7 +170,7 @@
             <mxPoint x="700" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRSRHBs3QUqfo48hZalt-20" value="другой компьютер (планшет, смартфон)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dRSRHBs3QUqfo48hZalt-20" value="PC (web, android, ios)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="632.5" y="100" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dRSRHBs3QUqfo48hZalt-22" value="Geometry.dll&lt;br&gt;(Qt/C++)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;verticalAlign=top;align=left;fontColor=#ffffff;" parent="1" vertex="1">
@@ -185,13 +185,13 @@
             <mxPoint x="337.50391322257315" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRSRHBs3QUqfo48hZalt-30" value="Другое GUI &lt;br&gt;на любом языке программирования" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="dRSRHBs3QUqfo48hZalt-30" value="GUI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="58.75" y="145" width="157.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dRSRHBs3QUqfo48hZalt-31" value="WebSocket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="92.5" y="225" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dRSRHBs3QUqfo48hZalt-32" value="другой компьютер (планшет, смартфон)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dRSRHBs3QUqfo48hZalt-32" value="PC (web, android, ios)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="100" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dRSRHBs3QUqfo48hZalt-34" value="JSON" style="endArrow=classic;startArrow=classic;html=1;exitX=0.067;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dRSRHBs3QUqfo48hZalt-4" target="dRSRHBs3QUqfo48hZalt-31" edge="1">
